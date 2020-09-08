@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Cotizador de seguros
+Deploy : https://pedantic-minsky-c611dd.netlify.app
+
+Curso: React, de www.codigoconjuan.com
+
+This project was bootstrapped with Create React App.
 
 ## Available Scripts
 
